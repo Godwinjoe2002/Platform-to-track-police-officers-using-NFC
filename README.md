@@ -1,6 +1,8 @@
 # Platform-to-track-police-officers-using-NFC
 Developed an NFC- and GPS-enabled platform to track police officers on Bandobast duty in real-time,  ensuring they remain within designated boundaries.
 
+Demo Video Done By Us : https://youtu.be/6zWNq4Z4fgI?si=LynjywEKTaZEs3_F 
+
 We have developed a platform that tracks the police officers on Bandobast duty using the NFC (Near Field Communication) and the GPS location tracking service. It will help the Head Police Department to easily monitor the police officers who have been deployed on Bandobast Duty by tracking their current location in real-time.
 
 We have designed a platform that consists of an NFC-enabled Mobile application and a Website.  The website is used by the Head Police Department to allocate the police officers to their respective sectors on Bandobast duties and to track the police officers using GPS-location service in real-time. (GPS is used since the NFC has a minimum range.) The Mobile Application is used by the police officers who have been allocated to Bandobast duty.
